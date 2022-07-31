@@ -119,3 +119,4 @@ float calculateShadow(DirectionalLight light)
     return shadow;
 }
 ```
+![singinToTheClouds](https://github.com/alanaman/Light-doc/blob/main/images/singinToTheClouds.png)
